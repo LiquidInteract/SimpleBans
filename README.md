@@ -6,7 +6,9 @@ Open Source, availiable to decompile, decompiled version will be uploded here sh
 ## Permissions
 
 Ban - simplebans.ban.command
+
 Pardon - simplebans.pardon.command
+
 Kick - simplebans.kick.command
 
 This Project Is Still Active 🟢
