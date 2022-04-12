@@ -8,8 +8,11 @@ Simple Bans aims to give you an easy way to stop griefers, cheaters or innapropr
 ## Command Syntax
 
 /sbkick [player] [reason] - kicks the player with a reason
+
 /sbban [player] [reason] - bans the player with a reason
+
 /sbpardon [player] - unbans a player previously banned
+
 /sb - shows status of the plugin
 
 ## Permissions
