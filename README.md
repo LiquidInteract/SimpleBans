@@ -23,5 +23,5 @@ Pardon - simplebans.pardon.command
 
 Kick - simplebans.kick.command
 
-This Project Is Still Active 🟢
+This Project Is NOT Active 
 
